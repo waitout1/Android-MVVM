@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/58adcb1bc6ed6dc5f902b64b4cb20aa2cca48ce6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_c39fabc2b48822f8bbadd5b74f23d7f10269319d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7855b1574ea3e1b41a19d6f378aaf4431f6c33cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/d98cfcf36295144f1f4627dcfc9f91d4105cb66a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_b50de15145e0595b743ed40038ac04485f3a051b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.1/baseLibrary-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2626e02aa9592edd5386d87408e05727303d9ded">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.1_45ff8b5297dae1cdea196560e4beefe7fd169b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/9310c4a30bb7243b298868de7513ce6114ac84d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_5c5bb7bc56a6e1056f20bf030cb86c9286a1d722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/21d5cc49be18f28902d66b21ffb6b8d80cd0d6b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_c7f1b8759482f1ad0861c2fc68b130dc64179ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/a32c228b7f1ace1e51d3dad148fac745771ac264/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_5e956f87d8d17505c7e1812981736e828ee8dd65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/bffbacb27ac2d2d7d0c17bd9b7e2936b1cb01bc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_615f3697e6b3576ef414fcb61d81f978ccfa8baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/4c6a58f179bcc07d4424439952b99478ca5ac1ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_2edf36b170fd8cfddb870fd160f6d657d3ecdc81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/00354c56e1bd02c358e28d52beb03ba84e6ab9c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_241430ff7a5a7d65fa7332814a90117f37d538b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/4c58638003d99874baa9eba1ed6b25e99ce097dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_9b791917da857e68bdc57844045573a9eba1ef92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/1118ce63c5a2aee6c7a2665b5c33f55931ec424a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_e6e16774bd64dde7401e0b45533cb7017e760710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seungkim/.android/build-cache/75c8403edb5e0f07ad544901e8de481d930e0361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/seungkim/Study/MVVM/app/build/intermediates/pre-dexed/debug/classes_ed120c7aa09b4465a5bb3a5eb9d2bb68a2da733c.jar" />
+    </item>
+
+</items>
