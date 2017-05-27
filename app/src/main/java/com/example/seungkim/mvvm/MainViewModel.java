@@ -6,13 +6,12 @@ import android.databinding.ObservableField;
  * Created by seungkim on 2017. 5. 24..
  */
 
-public class MainViewModel implements ViewModel, NumberModel.OnNumberChangeListener{
-    public NumberModel model;
+public class MainViewModel implements ViewModel{
+    public RandomNumberModel model;
     public final ObservableField<String> strResult;
 
     public MainViewModel(){
-        model = new NumberModel();
-        model.setOnNumberChangeListener(this);
+        model = new RandomNumberModel();
         strResult = new ObservableField<>();
     }
 
@@ -33,11 +32,7 @@ public class MainViewModel implements ViewModel, NumberModel.OnNumberChangeListe
     }
 
     public void onClickChangeText(){
-        model.changeNumber();
+        strResult.set( "reuslt : " + model.getNumber());
     }
 
-    @Override
-    public void onNumberChange(int number) {
-        strResult.set( "reuslt : " + number);
-    }
 }
